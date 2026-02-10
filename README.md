@@ -21,6 +21,5 @@ CSS3: Grid, Flexbox y animaciones básicas.
 
 Fuentes: Poppins y Playfair Display SC (Google Fonts).
 
-✒️ Autor: JOrge Cao
-
+✒️ Autor: Jorge Cao
 Proyecto realizado como estudiante de Conquerblock, aplicando conocimientos de desarrollo web y automatización.
