@@ -4,7 +4,7 @@
 Landing page moderna para una agencia de Coworking. Este proyecto se enfoca en el uso de maquetación avanzada y diseño de interfaces limpias.
 
 ## 📸 Preview
-![Captura del Proyecto]([Coworkig./public/img/Preview.png])
+![Captura del Proyecto](Coworking/public/img/Previwe.png)
 
 [![Ver Demo en Vivo](https://cozy-corner-landing-842c.vercel.app/)
 
