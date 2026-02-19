@@ -4,9 +4,9 @@
 Landing page moderna para una agencia de Coworking. Este proyecto se enfoca en el uso de maquetación avanzada y diseño de interfaces limpias.
 
 ## 📸 Preview
-![Captura del Proyecto](Coworking/public/img/Previwe.png)
 
-[![Ver Demo en Vivo](https://cozy-corner-landing-842c.vercel.app/)
+[ ![Ver demo en vivo](Coworking/public/img/Previwe.png) ] (https://cozy-corner-landing-842c.vercel.app/)
+
 
 🚀 Conceptos Técnicos Aplicados
 CSS Grid: Utilizado para la estructura global de la página, organizando el Nav, el Main y la Section en un sistema de filas y áreas.
